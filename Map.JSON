@@ -26,7 +26,7 @@
           "lookup": "properties.NAME",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/HungryLo/FIT3179-HW2-/main/GDP_PER_CAPITA.csv"
+              "url": "https://raw.githubusercontent.com/HungryLo/FIT3179_HW2/main/GDP_PER_CAPITA.csv"
             },
             "key": "Country",
             "fields": ["GDP(USD)"]
